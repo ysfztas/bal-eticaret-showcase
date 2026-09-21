@@ -2,6 +2,8 @@
 
 **Bal ve arı ürünleri satışı için uçtan uca e-ticaret sitesi.** Üyelikten siparişe, stok takibinden e-posta bildirimlerine kadar tüm akış yayına hazır hale getirildi.
 
+🔗 **Canlı:** [narbal.com](https://narbal.com)
+
 > Kaynak kod private. Bu depo projenin tanıtım sayfasıdır. İstek üzerine demo yapılabilir.
 
 ## Özellikler
